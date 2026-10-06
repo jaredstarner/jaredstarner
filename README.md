@@ -9,9 +9,9 @@ Hey, welcome to my GitHub Profile. Most of my work lives in private repos; exper
 
 **Latest experiments**
 <!-- experiments:start -->
+- [Slime mold](https://thesandbox.page/slime-mold/ "A petri dish where a million WebGPU agents play Physarum polycephalum: drop oat flakes and it grows a transport network between them, shy away from a lamp, and thread a maze of salt."): a petri dish where a million WebGPU…
 - [Favicon lab](https://thesandbox.page/favicon-lab/ "This page takes over its own tab icon: play Snake in it, paint it, watch it slow down when you look away, test it for HDR, and run a scrolling sign across a row of tabs."): this page takes over its own tab icon
 - [Arrivals](https://thesandbox.page/arrivals/ "A split-flap arrivals board for Wikipedia: every row is an edit landing somewhere in the world right now, and the board pops out into a window that floats over everything."): a split-flap arrivals board for Wikipedia
-- [Falling sand](https://thesandbox.page/falling-sand/ "The site's first home page, from 3 Oct 2026, retired to its own plot: a beach of falling sand where the title crumbles at a touch and the first three experiments lie buried for digging."): the site's first home page
 <!-- experiments:end -->
 
 <a href="https://www.credly.com/badges/04e8a3e0-7407-4dc6-ba24-8ac551aa67cf/public_url"><img align="left" width="60" src="assets/gen-ai-leader.png" alt="Google Cloud Generative AI Leader badge"></a>
