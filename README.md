@@ -9,9 +9,9 @@ Hey, welcome to my GitHub Profile. Most of my work lives in private repos; exper
 
 **Latest experiments**
 <!-- experiments:start -->
+- [Music box](https://thesandbox.page/music-box/ "A thirty-note paper-strip music box on a walnut table: punch holes in the strip, turn the crank, and every hole plucks a steel tooth that rings with its own inharmonic overtones."): a thirty-note paper-strip music box on…
 - [Ad hell](https://thesandbox.page/ad-hell/ "A modest toast recipe buried under every ad format the industry agreed to retire and every deceptive pattern in the catalog: read it to the end, or flip the ad blocker and watch it all fall away."): a modest toast recipe buried under every…
 - [Word brush](https://thesandbox.page/word-brush/ "A blank sheet where the brush lays down prose instead of paint: every stroke makes room, and a whole passage reflows through your drawing as you make it, like a calligram that sets itself."): a blank sheet where the brush lays…
-- [Fishing hole](https://thesandbox.page/fishing-hole/ "A pixel lake cut open from the side: cast from the dock, watch fish come to the bait, strike when the float goes under, and play the line until one is landed."): a pixel lake cut open from the side
 <!-- experiments:end -->
 
 <a href="https://www.credly.com/badges/04e8a3e0-7407-4dc6-ba24-8ac551aa67cf/public_url"><img align="left" width="60" src="assets/gen-ai-leader.png" alt="Google Cloud Generative AI Leader badge"></a>
