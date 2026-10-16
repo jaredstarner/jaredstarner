@@ -9,9 +9,9 @@ Hey, welcome to my GitHub Profile. Most of my work lives in private repos; exper
 
 **Latest experiments**
 <!-- experiments:start -->
+- [Pin tumbler](https://thesandbox.page/pin-tumbler/ "A pin-tumbler lock cut open down the middle: set the tension, find the pin that binds, lift it until it clicks at the shear line, and work through spools, serrations, and finally a lock you can only hear."): a pin-tumbler lock cut open down the…
 - [Teletext](https://thesandbox.page/teletext/ "A working teletext service on a glass tube: key a three-digit number and wait for the page to come round, then read today's news, weather, markets, and earthquakes in forty columns of block graphics, or play a quiz that sends you back to the start."): a working teletext service on a glass tube
 - [The undercroft](https://thesandbox.page/undercroft/ "A stone labyrinth drawn as 576 engraved plates, one static page for every place you can stand and way you can face: walk it by following links, step back with the back button, and climb toward the daylight while your own browser history inks in the chart."): a stone labyrinth drawn as 576…
-- [Seismograph](https://thesandbox.page/seismograph/ "A drum recorder wired to a real seismometer: pick a vault anywhere from Albuquerque to Antarctica, watch the pen write the last day of ground motion, see where each earthquake's waves should land, and hear the whole day sped up six thousand times."): a drum recorder wired to a real…
 <!-- experiments:end -->
 
 <a href="https://www.credly.com/badges/04e8a3e0-7407-4dc6-ba24-8ac551aa67cf/public_url"><img align="left" width="60" src="assets/gen-ai-leader.png" alt="Google Cloud Generative AI Leader badge"></a>
