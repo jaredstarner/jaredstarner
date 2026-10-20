@@ -9,9 +9,9 @@ Hey, welcome to my GitHub Profile. Most of my work lives in private repos; exper
 
 **Latest experiments**
 <!-- experiments:start -->
+- [Stereogram](https://thesandbox.page/stereogram/ "A field of dots with a solid world hidden in it, redrawn live as it moves: relax your eyes and a ring turns in the air, a pond ripples where you tap, your own words stand off the page, a shape you carve blind comes up out of the dots, and a test finds the smallest step in depth you can see."): a field of dots with a solid world…
 - [The coast at night](https://thesandbox.page/the-coast-at-night/ "Sixty thousand lighthouses, beacons, and buoys from the NGA and USCG lists of lights, each flashing its own published character on a night chart of the world, with coloured sectors you can read like a mariner and a view from the deck of a boat you put anywhere at sea."): sixty thousand lighthouses
 - [Sundial](https://thesandbox.page/sundial/ "A slate garden sundial laid out for any place on Earth: choose where it stands and the hour lines, date lines, and noon figure eight are cut again for that latitude, the real sun lights the engraving and casts the gnomon's shadow, and a print sheet makes one you can set up outside."): a slate garden sundial laid out for any…
-- [Hill run](https://thesandbox.page/hill-run/ "Three ways down a hill, printed as sports posters: bomb a city street on a skateboard ahead of the street sweeper, chase a cheese down a grass bank with a second one bouncing after you, and ride a luge through floodlit night with the four-man bob coming down behind."): three ways down a hill
 <!-- experiments:end -->
 
 <a href="https://www.credly.com/badges/04e8a3e0-7407-4dc6-ba24-8ac551aa67cf/public_url"><img align="left" width="60" src="assets/gen-ai-leader.png" alt="Google Cloud Generative AI Leader badge"></a>
