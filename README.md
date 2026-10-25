@@ -9,9 +9,9 @@ Hey, welcome to my GitHub Profile. Most of my work lives in private repos; exper
 
 **Latest experiments**
 <!-- experiments:start -->
+- [Datamosh](https://thesandbox.page/datamosh/ "A video codec written for this page so it can be broken: cut between reels without a keyframe and one picture is dragged along by the next one's motion, hold a frame to make it flow, or turn on your camera and smear the picture with your own movement."): a video codec written for this page so…
 - [Signal box](https://thesandbox.page/signal-box/ "A mechanical signal box at a country junction in 1964: answer the bells from the boxes either side, pull the levers the interlocking will let you, and keep every train on the timetable through a dawn, an afternoon, and a night shift."): a mechanical signal box at a country…
 - [Sea sparkle](https://thesandbox.page/sea-sparkle/ "A tank of glowing plankton that lives behind your screen: drag the browser window and the water sloshes and lights up blue, then open a second window and pour it from one into the other."): a tank of glowing plankton that lives…
-- [Tintype](https://thesandbox.page/tintype/ "A wet-plate portrait studio: pour collodion over a sheet of black iron, sit still before your camera for a few seconds, then develop and fix the plate under the safelight and watch your mirror image clear out of the cream."): a wet-plate portrait studio
 <!-- experiments:end -->
 
 <a href="https://www.credly.com/badges/04e8a3e0-7407-4dc6-ba24-8ac551aa67cf/public_url"><img align="left" width="60" src="assets/gen-ai-leader.png" alt="Google Cloud Generative AI Leader badge"></a>
