@@ -9,9 +9,9 @@ Hey, welcome to my GitHub Profile. Most of my work lives in private repos; exper
 
 **Latest experiments**
 <!-- experiments:start -->
+- [Jack-o'-lantern](https://thesandbox.page/jack-o-lantern/ "A pumpkin on the kitchen table and a carving kit: saw off the lid, cut, gouge, and scrape a face into the wall, then put out the lamp, light the candle inside, and turn it to see where the light gets out."): a pumpkin on the kitchen table…
 - [Seeing things](https://thesandbox.page/seeing-things/ "Ten figures that fool the eye: set a line, a tabletop, a circle, a row of tiles, or a shade until it looks right and the page measures how far off you were, then watch dots flicker that aren't there, a still picture turn, and a ghost of a colour nobody drew run round a ring."): ten figures that fool the eye
 - [Datamosh](https://thesandbox.page/datamosh/ "A video codec written for this page so it can be broken: cut between reels without a keyframe and one picture is dragged along by the next one's motion, hold a frame to make it flow, or turn on your camera and smear the picture with your own movement."): a video codec written for this page so…
-- [Signal box](https://thesandbox.page/signal-box/ "A mechanical signal box at a country junction in 1964: answer the bells from the boxes either side, pull the levers the interlocking will let you, and keep every train on the timetable through a dawn, an afternoon, and a night shift."): a mechanical signal box at a country…
 <!-- experiments:end -->
 
 <a href="https://www.credly.com/badges/04e8a3e0-7407-4dc6-ba24-8ac551aa67cf/public_url"><img align="left" width="60" src="assets/gen-ai-leader.png" alt="Google Cloud Generative AI Leader badge"></a>
