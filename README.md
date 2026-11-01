@@ -1,7 +1,7 @@
 <!-- card:start -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/card-dark.svg">
-  <img align="right" width="400" src="assets/card-light.svg" alt="Role: Director, Software Engineering. Uptime: 13 years, 3 months. Location: Columbus, OH &amp; Remote. Focus: AI harness dev, delivery metrics. Tools: Claude Code, VS Code, ConEmu, Warp, Bionic. Certs: Gen AI Leader, Scrum Master. Off-hours: FAA private pilot">
+  <img align="right" width="400" src="assets/card-light.svg" alt="Role: Director, Software Engineering. Uptime: 13 years, 4 months. Location: Columbus, OH &amp; Remote. Focus: AI harness dev, delivery metrics. Tools: Claude Code, VS Code, ConEmu, Warp, Bionic. Certs: Gen AI Leader, Scrum Master. Off-hours: FAA private pilot">
 </picture>
 <!-- card:end -->
 
