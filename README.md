@@ -9,9 +9,9 @@ Hey, welcome to my GitHub Profile. Most of my work lives in private repos; exper
 
 **Latest experiments**
 <!-- experiments:start -->
+- [Pipistrelle](https://thesandbox.page/pipistrelle/ "A July night at the edge of a village, heard the way a bat hears it: the screen stays dark except where your own calls come back off leaves, walls, water, and wings, so you hunt moths over the pond and round the streetlamp by echo, close in with a feeding buzz, and find your way home to the barn before first light shows you where you have been."): a July night at the edge of a village
 - [Schematic](https://thesandbox.page/schematic/ "Real metro networks pulled out of OpenStreetMap and redrawn as transit diagrams while you watch: every station starts where it really is, then the lines straighten onto forty-five degrees, the stations space out evenly, and the names find room, for twelve cities or any other you type in."): real metro networks pulled out of…
 - [Titivillus](https://thesandbox.page/titivillus/ "A printed account of the medieval demon who collects the errors of scribes, with the demon loose in it: run and leap across the tops of the letters themselves, read as you go, and pluck the twelve misprints set into the text before you reach the errata."): a printed account of the medieval…
-- [Tide machine](https://thesandbox.page/tide-machine/ "A brass tide-predicting machine of the kind that made the world's tide tables for a century, set up for thirteen American harbours: turn the crank and thirty-seven wheels drive a chain over and under their pulleys, and the pen draws the tide for any date, braking at every high and low water."): a brass tide-predicting machine of…
 <!-- experiments:end -->
 
 <a href="https://www.credly.com/badges/04e8a3e0-7407-4dc6-ba24-8ac551aa67cf/public_url"><img align="left" width="60" src="assets/gen-ai-leader.png" alt="Google Cloud Generative AI Leader badge"></a>
