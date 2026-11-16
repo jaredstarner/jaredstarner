@@ -1,7 +1,7 @@
 <!-- card:start -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/card-dark.svg">
-  <img align="right" width="400" src="assets/card-light.svg" alt="Role: Director, Software Engineering. Uptime: 13 years, 4 months. Location: Columbus, OH &amp; Remote. Focus: AI harness dev, delivery metrics. Tools: Claude Code, VS Code, ConEmu, Warp, Bionic. Certs: Gen AI Leader, Scrum Master. Off-hours: FAA private pilot">
+  <img align="right" width="400" src="assets/card-light.svg" alt="Role: Senior Engineering Manager. Uptime: 13 years, 4 months. Location: Columbus, OH &amp; Remote. Focus: AI harness dev, delivery metrics. Tools: Claude Code, VS Code, ConEmu, Warp, Bionic. Certs: Gen AI Leader, Scrum Master. Off-hours: FAA private pilot">
 </picture>
 <!-- card:end -->
 
@@ -9,9 +9,9 @@ Hey, welcome to my GitHub Profile. Most of my work lives in private repos; exper
 
 **Latest experiments**
 <!-- experiments:start -->
+- [Ferrofluid](https://thesandbox.page/ferrofluid/ "A porcelain dish of ferrofluid on an electromagnet: turn up the coil and the black liquid stands up in a hexagonal lattice of spikes that crowds and breaks up as the field climbs, or hold a magnet under the dish and drag the whole pool into a hedgehog that follows your hand."): a porcelain dish of ferrofluid on an…
 - [Pipistrelle](https://thesandbox.page/pipistrelle/ "A July night at the edge of a village, heard the way a bat hears it: the screen stays dark except where your own calls come back off leaves, walls, water, and wings, so you hunt moths over the pond and round the streetlamp by echo, close in with a feeding buzz, and find your way home to the barn before first light shows you where you have been."): a July night at the edge of a village
 - [Schematic](https://thesandbox.page/schematic/ "Real metro networks pulled out of OpenStreetMap and redrawn as transit diagrams while you watch: every station starts where it really is, then the lines straighten onto forty-five degrees, the stations space out evenly, and the names find room, for twelve cities or any other you type in."): real metro networks pulled out of…
-- [Titivillus](https://thesandbox.page/titivillus/ "A printed account of the medieval demon who collects the errors of scribes, with the demon loose in it: run and leap across the tops of the letters themselves, read as you go, and pluck the twelve misprints set into the text before you reach the errata."): a printed account of the medieval…
 <!-- experiments:end -->
 
 <a href="https://www.credly.com/badges/04e8a3e0-7407-4dc6-ba24-8ac551aa67cf/public_url"><img align="left" width="60" src="assets/gen-ai-leader.png" alt="Google Cloud Generative AI Leader badge"></a>

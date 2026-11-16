@@ -8,7 +8,7 @@ const SANDBOX = { repo: 'jaredstarner/thesandbox.page', dir: 'src/experiments', 
 const LIST_WIDTH = 52; // characters per bullet before it wraps beside the card
 
 const rows = (uptime) => [
-  ['Role', 'Director, Software Engineering'],
+  ['Role', 'Senior Engineering Manager'],
   ['Uptime', uptime],
   ['Location', 'Columbus, OH & Remote'],
   ['Focus', 'AI harness dev, delivery metrics'],
