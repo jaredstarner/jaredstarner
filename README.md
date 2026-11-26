@@ -9,9 +9,9 @@ Hey, welcome to my GitHub Profile. Most of my work lives in private repos; exper
 
 **Latest experiments**
 <!-- experiments:start -->
+- [As the light flies](https://thesandbox.page/as-the-light-flies/ "Your browser times a reply from each of thirty-four cloud data centres, and the speed of light in glass turns every reply into a circle you must be inside: watch them grow and stop, see where they all overlap, and find out how close that comes to where you are."): your browser times a reply…
 - [User journey](https://thesandbox.page/user-journey/ "A start-up's landing page with one tiny user walking down it from the hero to the sign-up form, standing on whatever the layout puts under their feet: drag the page narrower or wider, open the right question in the FAQ, ride a testimonial across the carousel, flip the pricing to yearly and back, and type a name long enough to cross."): a start-up's landing page with one…
 - [Obvious Exits](https://thesandbox.page/obvious-exits/ "Any town on Earth turned into a text adventure from OpenStreetMap: walk its real streets by typing north, south, east, and west, get round the shops on your list before they shut, meet a friend at a real pub as the lamps come on, and watch your map of where you have been fill in on squared paper."): any town on Earth turned into a…
-- [Neon](https://thesandbox.page/neon/ "A sign shop's window on a wet night: letter a sign and watch it bent into glass tubes, fill each one with neon, helium, or argon and mercury behind clear, ruby, cobalt, or coated glass, flip the switch, then hold up a diffraction grating and see every colour come apart into the lines of the gas that made it."): a sign shop's window on a wet night
 <!-- experiments:end -->
 
 <a href="https://www.credly.com/badges/04e8a3e0-7407-4dc6-ba24-8ac551aa67cf/public_url"><img align="left" width="60" src="assets/gen-ai-leader.png" alt="Google Cloud Generative AI Leader badge"></a>
